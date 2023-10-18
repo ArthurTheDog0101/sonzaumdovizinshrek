@@ -69,6 +69,21 @@ h1 {
   background-image: url(../images/skibidi.png);
 }
 
+.tecla_toim{
+  background-image: url(../images/shrek.jpeg);
+}
+
+.tecla_psh{
+  background-image: url(../images/centauro.jpeg);
+}
+
+.tecla_tic{
+  background-image: url(../images/chaves.png);
+}
+
+.tecla_tom{
+  background-image: url(../images/chica-fnaf.gif);
+}
 
 .tecla.ativa,
 .tecla:active {
