@@ -48,41 +48,61 @@ h1 {
   
 }
 
+
+
 .tecla_pom{
   background-image: url(../images/chevette.webp);
-  
+  background-size: 120%;
+  background-repeat: no-repeat;
+ 
 }
 
 .tecla_clap{
   background-image: url(../images/fucsca.jpg);
+  background-size: 160%;
+  background-repeat: no-repeat;
 }
 
 .tecla_tim{
   background-image: url(../images/mission\ passed.webp);
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 .tecla_puff{
   background-image: url(../images/relampago.jpeg);
+  background-size: 120%;
+  background-repeat: no-repeat;
 }
 
 .tecla_splash{
   background-image: url(../images/skibidi.png);
+  background-size: 110%;
+  background-repeat: no-repeat;
 }
 
 .tecla_toim{
   background-image: url(../images/shrek.jpeg);
+  background-size: 110%;
+  background-repeat: no-repeat;
 }
 
 .tecla_psh{
   background-image: url(../images/centauro.jpeg);
+  background-size: 110%;
+  background-repeat: no-repeat;
 }
 
 .tecla_tic{
   background-image: url(../images/chaves.png);
+  background-size: 120%;
+  background-repeat: no-repeat;
 }
 
 .tecla_tom{
   background-image: url(../images/chica-fnaf.gif);
+  background-size: 200%;
+  background-repeat: no-repeat;
 }
 
 .tecla.ativa,
